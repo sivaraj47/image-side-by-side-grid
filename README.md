@@ -2,4 +2,7 @@
 
 ![image](https://github.com/sivaraj47/image-with-text-side-by-side-grid-html-css/assets/9676262/ac11648b-1656-4061-acd7-703e8c48f375)
 
+![image](https://github.com/sivaraj47/image-with-text-side-by-side-grid-html-css/assets/9676262/44fa28e9-4d3b-42a5-8ecc-d9443f8fa2ab)
+
+
 
